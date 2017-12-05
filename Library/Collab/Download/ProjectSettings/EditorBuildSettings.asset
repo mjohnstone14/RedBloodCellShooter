@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e9dfbdadd39a944bfb61bf9097d3796f
+  - enabled: 1
+    path: Assets/Scenes/PrototypeScene.unity
+    guid: b0fb97674eb3cce40b52f12cbd711813
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: ae7d43cf0ab8148ffa3ff9e8c215c3d2
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: ed4e4adf45350405ea266ab1f47b6213
+  - enabled: 1
+    path: Assets/Scenes/BronzeMedal.unity
+    guid: 5924be71888a92443a11cf3832765627
+  - enabled: 1
+    path: Assets/Scenes/GoldMedal.unity
+    guid: a22dc248ebc20e24e9abf7d9148b6fea
+  - enabled: 1
+    path: Assets/Scenes/SilverMedal.unity
+    guid: 81386d0372e4b7b4693faefeab8ca0a9
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 8d80fb8aa85a44bf6874643ab4d8db49
